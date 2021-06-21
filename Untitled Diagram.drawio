@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-21T02:23:40.947Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="tPtaACcaS6I4co3i5AFP" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-21T02:31:55.693Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="B32Tl9AEBZ5ztNgncY6R" version="14.8.0" type="github">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
-    <mxGraphModel dx="2539" dy="1046" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2820" dy="1220" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -24,14 +24,42 @@
         <mxCell id="dKdSaXE48SgPbhcamS2K-32" value="" style="whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#f5f5f5;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="189" y="230" width="1080" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="dKdSaXE48SgPbhcamS2K-58" value="&lt;font style=&quot;font-size: 18px&quot;&gt;组件层&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1284.5" y="670" width="240" height="91" as="geometry" />
+        <mxCell id="PqPWKizBNkVSZj4csztq-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="dKdSaXE48SgPbhcamS2K-58" target="dKdSaXE48SgPbhcamS2K-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1320" y="716" />
+              <mxPoint x="1320" y="670" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="dKdSaXE48SgPbhcamS2K-59" value="&lt;font style=&quot;font-size: 18px&quot;&gt;项目层&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1284.5" y="512" width="240" height="89" as="geometry" />
+        <mxCell id="PqPWKizBNkVSZj4csztq-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dKdSaXE48SgPbhcamS2K-58" target="dKdSaXE48SgPbhcamS2K-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1320" y="716" />
+              <mxPoint x="1320" y="815" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="dKdSaXE48SgPbhcamS2K-60" value="&lt;font style=&quot;font-size: 18px&quot;&gt;微服务框架&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1284.5" y="325" width="240" height="75" as="geometry" />
+        <mxCell id="dKdSaXE48SgPbhcamS2K-58" value="&lt;font style=&quot;font-size: 18px&quot;&gt;组件层&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=14;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="1360" y="670" width="240" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="PqPWKizBNkVSZj4csztq-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="dKdSaXE48SgPbhcamS2K-59" target="dKdSaXE48SgPbhcamS2K-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PqPWKizBNkVSZj4csztq-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="dKdSaXE48SgPbhcamS2K-59" target="dKdSaXE48SgPbhcamS2K-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dKdSaXE48SgPbhcamS2K-59" value="&lt;font style=&quot;font-size: 18px&quot;&gt;项目层&lt;/font&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=14;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="1360" y="521" width="240" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="PqPWKizBNkVSZj4csztq-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="dKdSaXE48SgPbhcamS2K-60" target="dKdSaXE48SgPbhcamS2K-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PqPWKizBNkVSZj4csztq-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="dKdSaXE48SgPbhcamS2K-60" target="dKdSaXE48SgPbhcamS2K-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dKdSaXE48SgPbhcamS2K-60" value="&lt;font style=&quot;font-size: 18px&quot;&gt;微服务框架&lt;/font&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=14;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="1370" y="327.5" width="220" height="75" as="geometry" />
         </mxCell>
         <mxCell id="dKdSaXE48SgPbhcamS2K-63" value="集团计费3.0前端" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="-65.5" y="80" width="1590" height="40" as="geometry" />
@@ -99,7 +127,7 @@
         <mxCell id="PqPWKizBNkVSZj4csztq-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="PqPWKizBNkVSZj4csztq-15" target="PqPWKizBNkVSZj4csztq-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PqPWKizBNkVSZj4csztq-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PqPWKizBNkVSZj4csztq-15" target="PqPWKizBNkVSZj4csztq-40">
+        <mxCell id="PqPWKizBNkVSZj4csztq-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PqPWKizBNkVSZj4csztq-15" target="PqPWKizBNkVSZj4csztq-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PqPWKizBNkVSZj4csztq-15" value="&lt;font style=&quot;font-size: 18px&quot;&gt;业务组件&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -132,8 +160,8 @@
         <mxCell id="PqPWKizBNkVSZj4csztq-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PqPWKizBNkVSZj4csztq-26" target="PqPWKizBNkVSZj4csztq-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1120" y="920" />
-              <mxPoint x="1120" y="370" />
+              <mxPoint x="1070" y="920" />
+              <mxPoint x="1070" y="370" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -153,7 +181,7 @@
           <mxGeometry x="250" y="541" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PqPWKizBNkVSZj4csztq-40" value="&lt;font style=&quot;font-size: 18px&quot;&gt;jest单元测试框架&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="225" y="785" width="170" height="60" as="geometry" />
+          <mxGeometry x="1080" y="550" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
